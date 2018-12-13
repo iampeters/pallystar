@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-svg] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-svg/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-spinkit] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-spinkit/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-16:12
+MERGED from [:react-native-gesture-handler] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter-crashes] /home/iampeters/Desktop/Projects/pallystar/node_modules/appcenter-crashes/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter-analytics] /home/iampeters/Desktop/Projects/pallystar/node_modules/appcenter-analytics/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:appcenter] /home/iampeters/Desktop/Projects/pallystar/node_modules/appcenter/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.7] /home/iampeters/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/839e01bd5a484abdb519a841c9ed2438/AndroidManifest.xml:2:1-15:12
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-react-native-1.9.0.aar/9b3dc65447733bf150fc5e2a20811b85/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7506e025bfa0e64ad14c86f76b415f52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/ae92bdd5f535200fa7fe7af50207a87e/AndroidManifest.xml:2:1-10:12
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-crashes-1.9.0.aar/c5d2bc4d0d305a97f49669dd508d3cb1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter-analytics:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-1.9.0.aar/c5774ae53f0cbe2baa2b1a47f102f2b0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-1.9.0.aar/9815ebd7829f53bf3eb65065af86c1af/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/519b01c197b063ab8701bc45c1c4cef5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0f1f529b183a8309372a1e433223cf09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a65463784873b10ad9cac212d2abf681/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/119c497a92bfab1196bc0dabcf0c12ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7fc04131c955c6715b95bd567e4c7469/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/68d03736d43d23216094113ef99a0fac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/87aa57e63397594e7f548a1d439efa71/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/68c21c9a519e11b9328a50a3c48ab067/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/eec47fd30c18c28016d0afe849b65702/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/61478c88d97675793b7c5abe0071a065/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ef58c11eaba6d8beb2f92fb6da9a836a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/460d2824257e1228c1a289e1658207bf/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/iampeters/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/166057133fee02cb64cbbab4dd0d0757/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/47717c98401e3b81282fa31e6d90397c/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/38b7eb6ecfc72f314b8b2df844cb1cbd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c18d71f00e3783651010fe10bbe9439d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f1c01a32b5c4bf9a7b57adc864998d0d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/12429c2ae60a93fa51d5b2396db01f29/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.microsoft.appcenter:appcenter:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-1.9.0.aar/9815ebd7829f53bf3eb65065af86c1af/AndroidManifest.xml:11:5-67
+MERGED from [com.microsoft.appcenter:appcenter:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-1.9.0.aar/9815ebd7829f53bf3eb65065af86c1af/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.7] /home/iampeters/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/839e01bd5a484abdb519a841c9ed2438/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.7] /home/iampeters/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/839e01bd5a484abdb519a841c9ed2438/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [:react-native-spinkit] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-spinkit/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-14:19
+MERGED from [:react-native-spinkit] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-spinkit/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-14:19
+MERGED from [com.facebook.react:react-native:0.57.7] /home/iampeters/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/839e01bd5a484abdb519a841c9ed2438/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.7] /home/iampeters/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/839e01bd5a484abdb519a841c9ed2438/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/460d2824257e1228c1a289e1658207bf/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/460d2824257e1228c1a289e1658207bf/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/iampeters/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/166057133fee02cb64cbbab4dd0d0757/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/iampeters/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/166057133fee02cb64cbbab4dd0d0757/AndroidManifest.xml:2:3-17
+	android:supportsRtl
+		ADDED from [:react-native-spinkit] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-spinkit/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.pallystar.MainActivity
+ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:screenOrientation
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:17:9-45
+	android:label
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-svg] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-svg/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-svg/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-spinkit] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-spinkit/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-spinkit] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-spinkit/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/iampeters/Desktop/Projects/pallystar/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-crashes] /home/iampeters/Desktop/Projects/pallystar/node_modules/appcenter-crashes/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-crashes] /home/iampeters/Desktop/Projects/pallystar/node_modules/appcenter-crashes/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-analytics] /home/iampeters/Desktop/Projects/pallystar/node_modules/appcenter-analytics/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter-analytics] /home/iampeters/Desktop/Projects/pallystar/node_modules/appcenter-analytics/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter] /home/iampeters/Desktop/Projects/pallystar/node_modules/appcenter/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter] /home/iampeters/Desktop/Projects/pallystar/node_modules/appcenter/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] /home/iampeters/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/839e01bd5a484abdb519a841c9ed2438/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] /home/iampeters/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/839e01bd5a484abdb519a841c9ed2438/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-react-native-1.9.0.aar/9b3dc65447733bf150fc5e2a20811b85/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-react-native-1.9.0.aar/9b3dc65447733bf150fc5e2a20811b85/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7506e025bfa0e64ad14c86f76b415f52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7506e025bfa0e64ad14c86f76b415f52/AndroidManifest.xml:20:5-44
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/ae92bdd5f535200fa7fe7af50207a87e/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/ae92bdd5f535200fa7fe7af50207a87e/AndroidManifest.xml:6:5-8:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-crashes-1.9.0.aar/c5d2bc4d0d305a97f49669dd508d3cb1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-crashes-1.9.0.aar/c5d2bc4d0d305a97f49669dd508d3cb1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-1.9.0.aar/c5774ae53f0cbe2baa2b1a47f102f2b0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-analytics-1.9.0.aar/c5774ae53f0cbe2baa2b1a47f102f2b0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-1.9.0.aar/9815ebd7829f53bf3eb65065af86c1af/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-1.9.0.aar/9815ebd7829f53bf3eb65065af86c1af/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/519b01c197b063ab8701bc45c1c4cef5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/519b01c197b063ab8701bc45c1c4cef5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0f1f529b183a8309372a1e433223cf09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/0f1f529b183a8309372a1e433223cf09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a65463784873b10ad9cac212d2abf681/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a65463784873b10ad9cac212d2abf681/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/119c497a92bfab1196bc0dabcf0c12ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/119c497a92bfab1196bc0dabcf0c12ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7fc04131c955c6715b95bd567e4c7469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7fc04131c955c6715b95bd567e4c7469/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/68d03736d43d23216094113ef99a0fac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/68d03736d43d23216094113ef99a0fac/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/87aa57e63397594e7f548a1d439efa71/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/87aa57e63397594e7f548a1d439efa71/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/68c21c9a519e11b9328a50a3c48ab067/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/68c21c9a519e11b9328a50a3c48ab067/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/eec47fd30c18c28016d0afe849b65702/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/eec47fd30c18c28016d0afe849b65702/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/61478c88d97675793b7c5abe0071a065/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/61478c88d97675793b7c5abe0071a065/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ef58c11eaba6d8beb2f92fb6da9a836a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ef58c11eaba6d8beb2f92fb6da9a836a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/460d2824257e1228c1a289e1658207bf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/iampeters/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/460d2824257e1228c1a289e1658207bf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/47717c98401e3b81282fa31e6d90397c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/47717c98401e3b81282fa31e6d90397c/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/38b7eb6ecfc72f314b8b2df844cb1cbd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/38b7eb6ecfc72f314b8b2df844cb1cbd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c18d71f00e3783651010fe10bbe9439d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c18d71f00e3783651010fe10bbe9439d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f1c01a32b5c4bf9a7b57adc864998d0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f1c01a32b5c4bf9a7b57adc864998d0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/12429c2ae60a93fa51d5b2396db01f29/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/12429c2ae60a93fa51d5b2396db01f29/AndroidManifest.xml:20:5-44
+INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.microsoft.appcenter:appcenter:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-1.9.0.aar/9815ebd7829f53bf3eb65065af86c1af/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.microsoft.appcenter:appcenter:1.9.0] /home/iampeters/.gradle/caches/transforms-1/files-1.1/appcenter-1.9.0.aar/9815ebd7829f53bf3eb65065af86c1af/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/iampeters/Desktop/Projects/pallystar/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

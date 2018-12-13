@@ -1,0 +1,4 @@
+#Wed Dec 12 14:53:30 WAT 2018
+base.0=/home/iampeters/Desktop/Projects/pallystar/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
